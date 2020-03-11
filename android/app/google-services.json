@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959921928195",
+    "firebase_url": "https://townteam-8a348.firebaseio.com",
+    "project_id": "townteam-8a348",
+    "storage_bucket": "townteam-8a348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959921928195:android:c6ca292bcf37b4ea813636",
+        "android_client_info": {
+          "package_name": "com.islamkamal.townteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959921928195-76pevv4geliu8g8a52jiqvokk044utjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjboeIf2Bd-1fuM_eJxyBUIbebo30yXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959921928195-76pevv4geliu8g8a52jiqvokk044utjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
